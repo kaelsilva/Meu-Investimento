@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kael
+ *
+ */
+module melhorinvestimento {
+}
